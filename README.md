@@ -1,2 +1,2 @@
 # Stats_ML
-Has code and files for the 26:645:652:01 Statistics and ML course for Spring 2023
+Contains code and files for the 26:645:652:01 Statistics and ML course for Spring 2023
